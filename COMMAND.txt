@@ -1,10 +1,18 @@
+Git init
+
+git status
+
+git add <FILE_NAME>/ git add .
+
+git commit -m "ANY MESSAGE FOR FUTURE REFERENCE"
+
+git remote set-url origin https://token@github.com/Abhi787145/git-training-2025.git
+
 git branch -M main
 
 git push -u origin main
 
 git remote -v 
 
-git remote set-url origin https://token@github.com/Abhi787145/git-training-2025.git
-
-gti puch origin master
+git push origin master
 
