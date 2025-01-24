@@ -1,0 +1,10 @@
+git branch -M main
+
+git push -u origin main
+
+git remote -v 
+
+git remote set-url origin https://token@github.com/Abhi787145/git-training-2025.git
+
+gti puch origin master
+
