@@ -1,0 +1,1 @@
+Deploy the latest code changes to a site, Manage the CI/CD Pipeline, GIT, Jenkins, SQL Server Manager, Windows Server, Visual Studio, 
